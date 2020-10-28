@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "q5jDywZZd2dvGDPSf0Zs71IJHcCg1X/wpCUDmFKY/Pz44zjtrHVQ2Pdee132ikRuA84caxoMOl67MisFy4REJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\surface\\Documents\\Visual Studio 2019\\Projects\\DictionaryOnWrist\\DictionaryOnWrist\\DictionaryOnWrist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\surface\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\surface\\.nuget\\packages\\tizen.net\\6.0.0.14995\\tizen.net.6.0.0.14995.nupkg.sha512",
+    "C:\\Users\\surface\\.nuget\\packages\\tizen.net.api4\\4.0.1.14164\\tizen.net.api4.4.0.1.14164.nupkg.sha512",
+    "C:\\Users\\surface\\.nuget\\packages\\tizen.wearable.circularui\\1.3.2\\tizen.wearable.circularui.1.3.2.nupkg.sha512",
+    "C:\\Users\\surface\\.nuget\\packages\\xamarin.forms\\4.2.0.709249\\xamarin.forms.4.2.0.709249.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,9 @@
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\bin\Debug\tizen40\DictionaryOnWrist.deps.json
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\bin\Debug\tizen40\DictionaryOnWrist.dll
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\bin\Debug\tizen40\DictionaryOnWrist.pdb
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\obj\Debug\tizen40\DictionaryOnWrist.csproj.CoreCompileInputs.cache
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\obj\Debug\tizen40\DictionaryOnWrist.AssemblyInfoInputs.cache
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\obj\Debug\tizen40\DictionaryOnWrist.AssemblyInfo.cs
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\obj\Debug\tizen40\XamlC.stamp
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\obj\Debug\tizen40\DictionaryOnWrist.dll
+C:\Users\surface\Documents\Visual Studio 2019\Projects\DictionaryOnWrist\DictionaryOnWrist\obj\Debug\tizen40\DictionaryOnWrist.pdb

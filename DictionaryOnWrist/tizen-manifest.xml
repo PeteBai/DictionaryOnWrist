@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest package="org.liberty.wearDictionaryOnWrist" version="1.0.9" api-version="4" xmlns="http://tizen.org/ns/packages">
+    <author email="xiangyubai@outlook.com">Xiangyu Bai</author>
+    <profile name="wearable" />
+    <ui-application appid="org.liberty.wear.DictionaryOnWrist" exec="DictionaryOnWrist.dll" multiple="false" nodisplay="false" taskmanage="true" type="dotnet" launch_mode="single">
+        <label>腕上词典</label>
+        <icon>newLogo2.png</icon>
+        <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true" />
+        <splash-screens />
+    </ui-application>
+    <shortcut-list />
+    <privileges>
+        <privilege>http://tizen.org/privilege/internet</privilege>
+        <privilege>http://tizen.org/privilege/network.get</privilege>
+    </privileges>
+    <dependencies />
+    <provides-appdefined-privileges />
+</manifest>
